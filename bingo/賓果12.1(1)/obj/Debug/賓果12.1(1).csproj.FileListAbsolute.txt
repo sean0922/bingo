@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\賓果12.1(1)\賓果12.1(1)\obj\Debug\賓果12.1(1).csprojAssemblyReference.cache
+C:\Users\USER\source\repos\賓果12.1(1)\賓果12.1(1)\obj\Debug\賓果12._1_1_.Form1.resources
+C:\Users\USER\source\repos\賓果12.1(1)\賓果12.1(1)\obj\Debug\賓果12._1_1_.Properties.Resources.resources
+C:\Users\USER\source\repos\賓果12.1(1)\賓果12.1(1)\obj\Debug\賓果12.1(1).csproj.GenerateResource.cache
+C:\Users\USER\source\repos\賓果12.1(1)\賓果12.1(1)\obj\Debug\賓果12.1(1).csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\賓果12.1(1)\賓果12.1(1)\bin\Debug\賓果12.1(1).exe
+C:\Users\USER\source\repos\賓果12.1(1)\賓果12.1(1)\bin\Debug\賓果12.1(1).pdb
+C:\Users\USER\source\repos\賓果12.1(1)\賓果12.1(1)\obj\Debug\賓果12.1(1).exe
+C:\Users\USER\source\repos\賓果12.1(1)\賓果12.1(1)\obj\Debug\賓果12.1(1).pdb
